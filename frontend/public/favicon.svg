@@ -1,0 +1,22 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cinequest-gradient" x1="16" x2="80" y1="8" y2="86" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8E7B7" />
+      <stop offset="0.5" stop-color="#F43F5E" />
+      <stop offset="1" stop-color="#7C3AED" />
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="84" height="84" rx="18" fill="#0F172A" stroke="url(#cinequest-gradient)" stroke-width="2" />
+  <rect x="12" y="12" width="72" height="72" rx="14" fill="#111827" stroke="#334155" stroke-width="1" />
+
+  <path d="M22 28H32C35 28 37 30 37 33V64C37 67 35 69 32 69H22V28Z" fill="none" stroke="#F8FAFC" stroke-width="2" />
+  <path d="M74 28H64C61 28 59 30 59 33V64C59 67 61 69 64 69H74V28Z" fill="none" stroke="#F8FAFC" stroke-width="2" />
+
+  <path d="M43 27L59 48L43 69L41 64L53 48L41 33L43 27Z" fill="url(#cinequest-gradient)" />
+
+  <path d="M21 31H26M21 64H26" stroke="#F8FAFC" stroke-width="1" opacity="0.8" />
+  <path d="M70 31H74M70 64H74" stroke="#F8FAFC" stroke-width="1" opacity="0.8" />
+
+  <path d="M31 20L40 20M56 20L64 20M30 75L40 75M56 75L65 75" stroke="#F43F5E" stroke-width="1" opacity="0.8" />
+</svg>
